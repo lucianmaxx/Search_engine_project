@@ -1,0 +1,129 @@
+<parameters>
+	<index>../testindex</index>
+    <query>
+    <number>1</number>
+    <text>tcp</text>
+    </query>
+    <query>
+    <number>2</number>
+    <text>cloud</text>
+    </query>
+    <query>
+    <number>3</number>
+    <text>pole</text>
+    </query>
+    <query>
+    <number>4</number>
+    <text>erfanfar</text>
+    </query>
+    <query>
+    <number>5</number>
+    <text>paperweight</text>
+    </query>    
+    <query>
+    <number>6</number>
+    <text>formal</text>
+    </query>    
+    <query>
+    <number>7</number>
+    <text>jami</text>
+    </query>   
+    <query>
+    <number>8</number>
+    <text>peopl</text>
+    </query> 
+    <query>
+    <number>9</number>
+    <text>pedest</text>
+    </query> 
+
+    <query>
+    <number>10</number>
+    <text>compnetwork</text>
+    </query> 
+
+    <query>
+    <number>11</number>
+    <text>program</text>
+    </query> 
+
+    <query>
+    <number>12</number>
+    <text>proven</text>
+    </query> 
+
+    <query>
+    <number>13</number>
+    <text>schroll</text>
+    </query> 
+
+    <query>
+    <number>14</number>
+    <text>signum</text>
+    </query> 
+
+    <query>
+    <number>15</number>
+    <text>spring2004</text>
+    </query> 
+ 
+    <query>
+    <number>16</number>
+    <text>swarthmor</text>
+    </query> 
+
+    <query>
+    <number>17</number>
+    <text>testingtool</text>
+    </query> 
+
+    <query>
+    <number>18</number>
+    <text>vassamedia</text>
+    </query> 
+
+    <query>
+    <number>19</number>
+    <text>wheelchair</text>
+    </query> 
+
+    <query>
+    <number>20</number>
+    <text>shelv</text>
+    </query> 
+
+    <query>
+    <number>21</number>
+    <text>sharon</text>
+    </query> 
+
+    <query>
+    <number>22</number>
+    <text>googlesearch</text>
+    </query> 
+
+    <query>
+    <number>23</number>
+    <text>delaunai</text>
+    </query> 
+
+    <query>
+    <number>24</number>
+    <text>brief</text>
+    </query> 
+
+    <query>
+    <number>25</number>
+    <text>endem</text>
+    </query> 
+
+    <query>
+    <number>26</number>
+    <text>fayyad</text>
+    </query> 
+
+    
+    <trecFormat>true</trecFormat>
+
+    <stemmer><name>porter</name></stemmer>
+</parameters>
